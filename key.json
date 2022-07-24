@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "brave-sunspot-338414",
+  "private_key_id": "364af2e3c948bebe1b5efb68a555b4a55e8a60f2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCrDHeJGFh44xQU\nybgvbfrdTvpeJuuA2TpgvMX86qWI1z4LZCZcVvt2tLe3jdRzXnckn6tK3HuDI4La\nBYQJeKdoE2Q0E5Jzoo+UKGuQ2Nc5ppGlmqwHk/h0KmzUwaLsQgdhJ6g7iwGcg3ro\nOeN71o0o8hqzqWEn1mAaX2uNX9AuKM9wGLfO4B1aiVNZEnw34gebdULdvz7UykTa\nZWSNOS3ULNZMHy7Fgm68SMqfU6fxZhmetE3PWUPFB6jgBCulz65Jv0FOHic2sRRj\nbbuMDgie4mYrTF7VKBW1qfA/rr0/B9ut1FTjza7ZuwW0teibk9KsQ/lJxCiMuQ/7\n+1ZY4qmxAgMBAAECggEABRnllLqbpNtM1YPgkNWMVj5NPDKX8mtIEOuAUhcjYa3d\npVRSyo0ziapBEmHR9LDcB8UVRDHIIzSTafIhKnElOPbfFaiBxR4Tfx0nfBXjcU40\n6MXwnHc+wSQkw8GUnMwpUS3wF/qAzUykhTl4vdA7vH1f63zBL4F2s0KmP/ycBkxX\nypP7OF4i4kb2JXSDI0xVD+nzdzH5K5iMSy/PXy0EOEo40mgTKcoplP6/wV7BJCOX\nX5Tb/hhVxTyGTZBfBX4tFeffnmrHXG+0B+2mffD/nrvxOLgGqblagV7jcRCEbINw\nSAt4w5v/JT/6Wc+72tmermywLDszT6g+G44GPlsIIQKBgQDX590jYMBwQJkMdQuN\nSm/rO+EYipqJYOWJQJM8WzsJGLmNuUfjNbc9FWpQytsVLsfVgJSSsMn0wbBrhKn7\nj6564bIlULzpDQl2eVqZmhZoYSnP6VsCRQ7wP58FE4TAB9p753xlMKerBdvRv44o\nEcmjihDV71rmFDYCOuUbo7KWaQKBgQDK0BrcfSPE4q9zsl1u62tiOAVpw+zMTLOy\nAjK/N4IvTSxHHbFu0CCs0VQg4Qs0JCrvzz5e2Z8b/LAJ74h6XqqnYNpJNIknvKvP\n/zRH6tSD60LXh6g5jvuUkW5sINbzD4IlGRbuDUs+zT3B1hobwTKSJgPoOfHds1CX\ngYtaBxRgCQKBgFFstE1/U5QCCLZV/gFPLV49uuqSey2MSYS1wdFlZqJLnM8CLUZX\nH7/9r5bAqlcWyW6Pi3i3C7MuyOYDpkelLFxTeefwxw3tSMBRjAWZwxGicy5iB1yX\nxsZ8d/BmKA5z58YKyzMuYk1xbDFyWJ5r9uuiSi8kkddrj+LPa1A9MEDhAoGAVUtU\nIKqYYnMbasL2vHFRxgrda++0JO+VGyYFhZmorI/+MSJxvrLVKxkWEoXSmmkjjZtR\nFb7cRX7t4h/U+/HYP3BiHSt1Czsz3tPrfttp6NkGUXKB80MI1yCamertu2coSsXU\neOUqYg0bDewnKskDpadLOV01NRH2sOEQZBpaHVECgYEAkDSuMMwdVuvyXRzoJDWM\nYz+fuxxcPGYgptpHm0wX8L0czAfzl/qnN0QibEgOrPO8EGJtaatvuPfBebHCuKck\nyiB8mf1w9fGDnWcM2Q4Si7FSya9QAn02e8xB6jNJmz6LZ7M+Ah1dJVMwyAzzYjsh\n1DybX/JKYuhUhrX9jCNQ4Sg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "shawnhsiao@brave-sunspot-338414.iam.gserviceaccount.com",
+  "client_id": "110724895923468949820",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/shawnhsiao%40brave-sunspot-338414.iam.gserviceaccount.com"
+}
